@@ -254,14 +254,14 @@ TDV.PlayerAPI.defineScript({ "definitions": [
  },
  {
   "class": "PlayList",
-  "id": "playList_EEBCF4C2_FE0F_AC1D_41D4_7DD96EC2BF54",
+  "id": "playList_ED485D0D_FE19_7C27_41C8_506F5E5E2837",
   "items": [
    {
     "begin": "this.fixTogglePlayPauseButton(this.MainViewerVideoPlayer)",
     "media": "this.video_F16791A6_FE38_A464_41CE_3B0FD580FB94",
     "class": "VideoPlayListItem",
     "player": "this.MainViewerVideoPlayer",
-    "start": "this.MainViewerVideoPlayer.set('displayPlaybackBar', true); this.changeBackgroundWhilePlay(this.playList_EEBCF4C2_FE0F_AC1D_41D4_7DD96EC2BF54, 0, '#000000'); this.pauseGlobalAudiosWhilePlayItem(this.playList_EEBCF4C2_FE0F_AC1D_41D4_7DD96EC2BF54, 0, this.video_F16791A6_FE38_A464_41CE_3B0FD580FB94)"
+    "start": "this.MainViewerVideoPlayer.set('displayPlaybackBar', true); this.changeBackgroundWhilePlay(this.playList_ED485D0D_FE19_7C27_41C8_506F5E5E2837, 0, '#000000'); this.pauseGlobalAudiosWhilePlayItem(this.playList_ED485D0D_FE19_7C27_41C8_506F5E5E2837, 0, this.video_F16791A6_FE38_A464_41CE_3B0FD580FB94)"
    }
   ]
  },
